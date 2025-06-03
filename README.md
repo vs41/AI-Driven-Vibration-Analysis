@@ -31,7 +31,6 @@ Reconstruction: Use optimization (e.g., Basis Pursuit, L1 minimization) to recov
 This project demonstrates CS applied to images, showing how well the image can be reconstructed even after aggressive compression.
 
 ![11](https://github.com/user-attachments/assets/12be767d-359b-4932-88bf-415336f9ab5a)
-
 ![22](https://github.com/user-attachments/assets/cf4b829c-6e1c-4ca3-a4da-03610e8f9dcc)
 
 
