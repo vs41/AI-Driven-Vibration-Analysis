@@ -20,5 +20,23 @@ Below are comparison results showing the effect of both filters on the same nois
 
 
 
+📉 Compressive Sensing for Image Compression & Reconstruction
+Compressive Sensing (CS) is an advanced technique that allows the reconstruction of signals or images from fewer samples than traditional methods require. It leverages the idea that many natural signals are sparse or compressible in some domain (like DCT or wavelet), allowing significant data reduction with minimal quality loss.
+
+🧠 How It Works:
+Compression (Sensing): Acquire a small number of linear measurements from the original image.
+
+Reconstruction: Use optimization (e.g., Basis Pursuit, L1 minimization) to recover the full image from those few measurements.
+
+This project demonstrates CS applied to images, showing how well the image can be reconstructed even after aggressive compression.
+
+![11](https://github.com/user-attachments/assets/12be767d-359b-4932-88bf-415336f9ab5a)
+
+![22](https://github.com/user-attachments/assets/cf4b829c-6e1c-4ca3-a4da-03610e8f9dcc)
+
+
+
+
+
 
 
