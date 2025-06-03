@@ -35,6 +35,24 @@ This project demonstrates CS applied to images, showing how well the image can b
 
 
 
+4.3 Validation with Experimental Data
+a. Cantilever Beam (Length: 320 mm)
+
+![23](https://github.com/user-attachments/assets/4eaba35e-0e8a-4735-b723-99c692eb4d19)
+
+Displacement vs. Time for the Cantilever Beam
+
+The orange graph represents the experimental displacement data recorded using an accelerometer. The measurement is taken at a point located 250 mm from the fixed base of the cantilever beam.
+
+The blue graph represents the algorithmically computed displacement at the same location using the proposed method.
+
+Both graphs exhibit a similar trend, demonstrating good agreement between experimental and predicted results. The observed error in displacement magnitude is approximately 1% to 2%, indicating strong accuracy of the algorithm.
+
+➡️ Conclusion:
+The displacement predicted by the algorithm closely matches the experimental data, validating the reliability and accuracy of the proposed method.
+
+
+
 
 
 
