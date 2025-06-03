@@ -38,8 +38,7 @@ This project demonstrates CS applied to images, showing how well the image can b
 
 
 🔬  Validation with Experimental Data
-📏 Cantilever Beam – Length: 320 mm
-📸  ROI and Edge Detection
+
 
 ![23](https://github.com/user-attachments/assets/4eaba35e-0e8a-4735-b723-99c692eb4d19)
 
