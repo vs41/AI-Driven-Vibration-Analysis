@@ -53,6 +53,8 @@ Both graphs exhibit a similar trend, demonstrating good agreement between experi
 ➡️ Conclusion:
 The displacement predicted by the algorithm closely matches the experimental data, validating the reliability and accuracy of the proposed method.
 
+By using Sobel operator method for cantilever beam:
+
 
 
 
