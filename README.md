@@ -20,7 +20,9 @@ Below are comparison results showing the effect of both filters on the same nois
 
 
 
-📉 Compressive Sensing for Image Compression & Reconstruction
+
+
+📉 Compressive Sensing for Image Compression & Reconstruction:
 Compressive Sensing (CS) is an advanced technique that allows the reconstruction of signals or images from fewer samples than traditional methods require. It leverages the idea that many natural signals are sparse or compressible in some domain (like DCT or wavelet), allowing significant data reduction with minimal quality loss.
 
 🧠 How It Works:
@@ -35,8 +37,9 @@ This project demonstrates CS applied to images, showing how well the image can b
 
 
 
-4.3 Validation with Experimental Data
-a. Cantilever Beam (Length: 320 mm)
+🔬  Validation with Experimental Data
+📏 Cantilever Beam – Length: 320 mm
+📸  ROI and Edge Detection
 
 ![23](https://github.com/user-attachments/assets/4eaba35e-0e8a-4735-b723-99c692eb4d19)
 
